@@ -1,5 +1,5 @@
-# FopAssignment
-WIX1002 Assignment by MindSweeper (OCC 5)
+# FopAssignment - Price Tracker
+WIX1002 Assignment by MindSweeper (OCC 5) 2024
 
 Required Downloads
 1. https://storage.data.gov.my/pricecatcher/lookup_item.csv
