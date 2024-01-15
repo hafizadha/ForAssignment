@@ -8,6 +8,7 @@ Required Downloads
 4. XAMPP Control Panel https://www.apachefriends.org/download.html
 
 Required libraries (Java with Maven)
+
 1.OpenCsv
 2.JDBC
 3.Javax.mail
